@@ -38,18 +38,30 @@ WEB SERVICES -
 
 ++ Real world Applications ++ 
 XML INTEGRATION - 
-Financial Transactions – SWIFT messaging protocol uses XML for international banking transactions (Smith & Johnson, 2023).
-Healthcare Systems – HL7 (Health Level Seven) standard relies on XML for patient record exchange (Patel et al., 2019).
-Government Data Exchange – Regulatory agencies use XML for legal documentation and inter-agency communication (Wang & Kim, 2022).
+1. Financial Transactions – SWIFT messaging protocol uses XML for international banking transactions.
+2. Healthcare Systems – HL7 (Health Level Seven) standard relies on XML for patient record exchange.
+3. Government Data Exchange – Regulatory agencies use XML for legal documentation and inter-agency communication.
 
 WEB SERVICES - 
-
+1. E-commerce: Companies like Amazon and PayPal utilize RESTful APIs for order processing and payment transactions, enabling seamless integration across platforms.
+2. Social Media Platforms: Platforms such as Facebook, Twitter, and Instagram use REST APIs to allow real-time content sharing and interaction among users.
+3. Cloud Computing: Service providers like AWS, Google Cloud, and Microsoft Azure offer web service APIs for efficient cloud resource management and service integration. 
 
 ++ Conclusion ++ 
-
+Both XML integration and web services have significant roles in modern software development.
+XML remains essential for enterprise data exchange, financial transactions, and structured document storage. 
+However, web services especially RESTful APIs, dominate modern cloud-based and mobile applications due to their scalability, 
+efficiency, and JSON support. Organizations should choose between XML integration and web services based on performance needs, 
+security requirements and goals.
 
 ++ REFERENCES ++ 
 
-Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2021). Web Services: Concepts, Architectures and Applications. Springer.
-Fielding, R. (2020). Architectural Styles and the Design of Network-based Software Architectures. University of California, Irvine.
-Kumar, A., & Singh, R. (2023). "Security Approaches in Web Services: A Comparative Analysis." Journal of Cybersecurity Research, 28(3), 145-159.
+https://doi.org/10.1016/j.websem.2004.02.001
+
+https://doi.org/10.1145/342009.335395 
+
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=XML+integration&btnG=#d=gs_qabs&t=1738308412067&u=%23p%3DItkB3QhL09kJ 
+
+https://www.cleo.com/blog/knowledge-base-web-services?utm_source=chatgpt.com
+
+https://aws.amazon.com/what-is/restful-api/?utm_source=chatgpt.com
