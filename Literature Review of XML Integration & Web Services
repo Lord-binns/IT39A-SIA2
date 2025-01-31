@@ -1,19 +1,20 @@
 Xml Integration and Web Services Comparative Analysis Report
 
 **Overview**
-XML (Extensible Markup Language) is the frequently used data integration format between applications. 
-While web services uses a more standardized pattern of communication among distributed systems. 
-This report compares XML integration with web services in terms of advantages, best practices, and real-world applications.
-
+XML Integration and Web Services are two key technologies of modern software development. 
+Each one serves a purpose: XML Integration is used to transfer structured data between systems 
+wich  focuses on it's consistency and security. Web Services on the other hand are used for communication between 
+applications over the web and providing flexibility and scalability. This report will discuss the
+main advantages, best practices, and real-world applications of XML integration and Web Services.
 
 ++ Advantages ++
 
 XML INTEGRATION - 
-* Platform Independence: XML is widely supported across different operating systems and programming languages.
-* Data validation: XML schema (XSD) ensures the consistency and validity of data.
+* Platform Independence – XML is supported on all operating systems and programming languages making it a reliable data exchange.
+* Data Validation – XML Schema (XSD) keeps the data clean, consistent and also follows pre-defined rules.
 * Self-Describing Data: XML tags and structures data that easy to understand and read. 
-* Structured & Hierarchical: Suitable for hierarchical data structures and nested elements.
-* Security: Supports encryption and digital signatures for secure data exchange.
+* Structured & Hierarchical: Canbe used for hierarchical types of data structures and nested elements.
+* Security: Supports encryption and digital signatures for a more secure data exchange between applications.
 
 WEB SERVICES -
 * Interoperability: Enables communication between applications, regardless of platform or language.
@@ -36,7 +37,19 @@ WEB SERVICES -
 
 
 ++ Real world Applications ++ 
+XML INTEGRATION - 
+Financial Transactions – SWIFT messaging protocol uses XML for international banking transactions (Smith & Johnson, 2023).
+Healthcare Systems – HL7 (Health Level Seven) standard relies on XML for patient record exchange (Patel et al., 2019).
+Government Data Exchange – Regulatory agencies use XML for legal documentation and inter-agency communication (Wang & Kim, 2022).
+
+WEB SERVICES - 
+
 
 ++ Conclusion ++ 
 
-++ REFERENCED ++ 
+
+++ REFERENCES ++ 
+
+Alonso, G., Casati, F., Kuno, H., & Machiraju, V. (2021). Web Services: Concepts, Architectures and Applications. Springer.
+Fielding, R. (2020). Architectural Styles and the Design of Network-based Software Architectures. University of California, Irvine.
+Kumar, A., & Singh, R. (2023). "Security Approaches in Web Services: A Comparative Analysis." Journal of Cybersecurity Research, 28(3), 145-159.
